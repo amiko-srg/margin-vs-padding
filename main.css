@@ -1,0 +1,37 @@
+body{
+    background-color: #2A5D5A;
+}
+h1 {
+    background-color: #311313;
+    color: white;
+    width: 300px;
+    height: 50px;
+    padding: 10px;
+    text-align: center;
+    font-size: 35px;
+    margin-left: 520px;
+}
+.parent{
+    margin-left: 360px;
+    width: 600px;
+    height: 360px;
+    background-color: black;
+    border: 6px solid red;
+    padding: 20px;
+    margin-top: 50px;
+}
+.model { 
+    background-color: #1FE8B7;
+    padding: 5px;
+    font-size: 20px;
+    font-weight: bolder;
+    padding-left: 25px;
+}
+.model2 {
+    background-color: #1FE8B7;
+    padding: 5px;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: bolder;
+    padding-left: 25px;
+}
